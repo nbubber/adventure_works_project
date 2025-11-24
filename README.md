@@ -21,5 +21,7 @@ Helped leadership focus on profitable product lines and enhance customer satisfa
 
 ### Screenshots
 ![Dashboard Preview](https://github.com/nbubber/adventure_works_project/blob/main/Excel%20Dashboard%20Snapshot.png)
+
 ![Dashboard Preview](https://github.com/nbubber/adventure_works_project/blob/main/Power%20BI%20Dashboard%20Snapshot.png)
-![Dashboard Preview](
+
+![Dashboard Preview](https://github.com/nbubber/adventure_works_project/blob/main/Tableau%20Dashboard%20Snapshot.png)
