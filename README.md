@@ -18,3 +18,6 @@ Implemented customer segment analysis to focus on high-value buyer groups
 
 ### Business Impact
 Helped leadership focus on profitable product lines and enhance customer satisfaction by addressing return trends
+
+### Screenshots
+![Dashboard Preview](https://github.com/nbubber/adventure_works_project/blob/main/Excel%20Dashboard%20Snapshot.png)
