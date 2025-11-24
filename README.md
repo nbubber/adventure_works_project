@@ -1,5 +1,5 @@
 # adventure_works_project
-### 1. Project Title
+### Project Title
 Adventure Works Analytics Dashboard
 
 ### Short Description
